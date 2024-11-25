@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Zhaofeng Luo, a passionate undergraduate student at the School of Electronics Engineering and Computer Science at Peking University. 
+I'm a fourth-year CS student at Peking University, working with Prof. Yisen Wang and Prof. Lin Yang. My research goal is to design more powerful and efficient algorithms in reinforcement learning and to provide theoretical understanding for existing representation learning paradigms.
 ## Academic Interests
  I've spent a year researching **wireless communication**, focusing on developing optical feedback architectures for high-mobility wireless laser links. Currently, my interests have shifted to **physics-based simulations**. 
 
