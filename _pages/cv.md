@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-My latest CV is [here](http://kaotty.github.io/files/CV.pdf)
+My latest CV is [here](http://kaotty.github.io/files/CV.pdf).
 
 
