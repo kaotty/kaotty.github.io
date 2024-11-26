@@ -21,7 +21,7 @@ repository               : "kaotty/kaotty.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "temp_photo.jpg"
+  avatar           : "photo.jpg"
   name             : "Kaiwen Hu"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate student at Peking University"
