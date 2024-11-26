@@ -21,10 +21,8 @@ Email: kaiwenhu [at] stu (dot) pku (dot) edu (dot) cn
 - 2024.09: Our paper on equivariant self-supervised learning theory is accepted at NeurIPS 2024!
 
 ## Publications
-__Understanding the Role of Equivariance in Self-supervised Learning__
-
-Yifei Wang*, __Kaiwen Hu*__, Sharut Gupta, Ziyu Ye, Yisen Wang, Stefanie Jegelka
-
-NeurIPS 2024
+__Understanding the Role of Equivariance in Self-supervised Learning__  
+Yifei Wang*, __Kaiwen Hu*__, Sharut Gupta, Ziyu Ye, Yisen Wang, Stefanie Jegelka  
+In NeurIPS 2024
 
 
