@@ -21,8 +21,13 @@ Email: kaiwenhu [at] stu (dot) pku (dot) edu (dot) cn
 - 2024.09: Our paper on equivariant self-supervised learning theory is accepted at NeurIPS 2024!
 
 ## Publications
+__Projection Head is Secretly an Information Bottleneck__
+Zhuo Ouyang*, __Kaiwen Hu*__, Qi Zhang, Yifei Wang, Yisen Wang
+Submitted to ICLR 2025
+
 __Understanding the Role of Equivariance in Self-supervised Learning__  
 Yifei Wang*, __Kaiwen Hu*__, Sharut Gupta, Ziyu Ye, Yisen Wang, Stefanie Jegelka  
-In NeurIPS 2024
+In NeurIPS 2024  
+[PDF](https://arxiv.org/abs/2411.06508) | [Code](https://github.com/kaotty/Understanding-ESSL)
 
 
