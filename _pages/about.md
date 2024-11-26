@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year CS student at Peking University, working with Prof. Yisen Wang and Prof. Lin Yang. My research goal is to design more powerful and efficient algorithms in reinforcement learning and to provide theoretical understanding for existing representation learning paradigms.
+I'm a fourth-year CS student at Peking University, working with Prof. Yisen Wang and Prof. Lin Yang. My research goal is to design more powerful and efficient algorithms in reinforcement learning and to provide theoretical understanding for existing representation learning paradigms. My latest CV is [here](http://kaotty.github.io/files/CV.pdf).
+
 ## Research Interests
 - Representation Learning: Revisiting the existing deep learning (e.g., self-supervised learning) paradigms and uncover their underlying mechanisms theoretically.
 
