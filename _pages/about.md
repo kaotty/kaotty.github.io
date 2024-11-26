@@ -25,8 +25,10 @@ I'm a fourth-year CS student at Peking University, working with Prof. Yisen Wang
 </div>
 
 ## Publications
-<span style="color:red">Understanding the Role of Equivariance in Self-supervised Learning</span>
+__Understanding the Role of Equivariance in Self-supervised Learning__
+
 Yifei Wang*, __Kaiwen Hu*__, Sharut Gupta, Ziyu Ye, Yisen Wang, Stefanie Jegelka
+
 NeurIPS 2024
 
 
