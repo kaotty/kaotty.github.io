@@ -24,6 +24,9 @@ I'm a fourth-year CS student at Peking University, working with Prof. Yisen Wang
     </div>
 </div>
 
-## Hobbies
-Beyond academics, I have a keen interest in sports, particularly tennis. I served as the captain of the School of EECS tennis team, where we made numerous victories togeter. I'm also the president of the Peking University Student Tennis Association, where I've organized several tennis tournaments and classes.
+## Publications
+<span style="color:red">Understanding the Role of Equivariance in Self-supervised Learning</span>
+Yifei Wang*, __Kaiwen Hu*__, Sharut Gupta, Ziyu Ye, Yisen Wang, Stefanie Jegelka
+NeurIPS 2024
+
 
