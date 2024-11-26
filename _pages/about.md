@@ -15,14 +15,8 @@ I'm a fourth-year CS student at Peking University, working with Prof. Yisen Wang
 
 
 ## News
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-         Check out my recent GPU solid simulation tutorial code <a href="https://github.com/phys-sim-book/solid-sim-tutorial-gpu">here</a> and the corresponding course material <a href="https://phys-sim-book.github.io/lec4.6-gpu_accel.html">here</a>.
-    </div>
-    <div style="flex: 1;">
-        <img src="/images/publication_book.jpg" alt="Image" style="width: 100%;">
-    </div>
-</div>
+- 2024.10: Our paper on contrastive learning theory is submitted to ICLR 2025.
+- 2024.09: Our paper on equivariant self-supervised learning theory is accepted at NeurIPS 2024!
 
 ## Publications
 __Understanding the Role of Equivariance in Self-supervised Learning__
