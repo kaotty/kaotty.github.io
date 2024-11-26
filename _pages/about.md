@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 I'm a fourth-year CS student at Peking University, working with Prof. Yisen Wang and Prof. Lin Yang. My research goal is to design more powerful and efficient algorithms in reinforcement learning and to provide theoretical understanding for existing representation learning paradigms.
-## Academic Interests
- I've spent a year researching **wireless communication**, focusing on developing optical feedback architectures for high-mobility wireless laser links. Currently, my interests have shifted to **physics-based simulations**. 
+## Research Interests
+### Representation Learning: Revisiting the existing deep learning (e.g., self-supervised learning) paradigms and uncover their underlying mechanisms theoretically.
+### Reinforcement Learning: Improving the sample efficiency of multiple settings with guarantees of robustness.
 
 
 ## News
