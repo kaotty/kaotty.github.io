@@ -11,7 +11,7 @@ I'm a fourth-year CS student at Peking University, working with Prof. Yisen Wang
 Email: kaiwenhu [at] stu (dot) pku (dot) edu (dot) cn
 
 ## Research Interests
-- Representation Learning: Revisiting the existing deep learning (e.g., self-supervised learning) paradigms and uncover their underlying mechanisms theoretically.
+- Representation Learning: Revisiting the existing deep learning (e.g., self-supervised learning) paradigms and uncovering their underlying mechanisms theoretically.
 
 - Reinforcement Learning: Improving the sample efficiency of multiple settings with guarantees of robustness.
 
