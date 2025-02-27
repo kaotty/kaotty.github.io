@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year CS student at Peking University, working with Prof. Yisen Wang and Prof. Lin Yang. My research goal is to design more powerful and efficient algorithms in reinforcement learning and to provide theoretical understanding for existing representation learning paradigms. My latest CV is [here](http://kaotty.github.io/files/CV.pdf).
+I'm a fourth-year CS student at Peking University, working with Prof. Yisen Wang, Prof. Lin Yang, and Prof. Amy Zhang. My research goal is to design more powerful and efficient algorithms in reinforcement learning and to provide theoretical understanding for existing representation learning paradigms. My latest CV is [here](http://kaotty.github.io/files/CV.pdf).
 
 Email: kaiwenhu [at] stu (dot) pku (dot) edu (dot) cn
 
@@ -17,12 +17,12 @@ Email: kaiwenhu [at] stu (dot) pku (dot) edu (dot) cn
 
 
 ## News
-- 2024.10: Our paper on contrastive learning theory is accepted at ICLR 2025!
+- 2025.1: Our paper on contrastive learning theory is accepted at ICLR 2025!
 - 2024.09: Our paper on equivariant self-supervised learning theory is accepted at NeurIPS 2024!
 
 ## Publications
 __Projection Head is Secretly an Information Bottleneck__  
-Zhuo Ouyang*, __Kaiwen Hu*__, Qi Zhang, Yifei Wang, Yisen Wang  
+Zhuo Ouyang*, __Kaiwen Hu*__, Qi Zhang*, Yifei Wang, Yisen Wang  
 In ICLR 2025.
 
 __Understanding the Role of Equivariance in Self-supervised Learning__  
