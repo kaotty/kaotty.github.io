@@ -23,8 +23,8 @@ Email: kaiwenhu [at] stu (dot) pku (dot) edu (dot) cn
 ## Publications
 __Projection Head is Secretly an Information Bottleneck__  
 Zhuo Ouyang*, __Kaiwen Hu*__, Qi Zhang, Yifei Wang, Yisen Wang  
-In ICLR 2025.
-[PDF](https://arxiv.org/abs/2503.00507) | [Code]( https://github.com/PKU-ML/Projector_Theory)
+In ICLR 2025.  
+[PDF](https://arxiv.org/abs/2503.00507) | [Code](https://github.com/PKU-ML/Projector_Theory)
 
 __Understanding the Role of Equivariance in Self-supervised Learning__  
 Yifei Wang*, __Kaiwen Hu*__, Sharut Gupta, Ziyu Ye, Yisen Wang, Stefanie Jegelka  
