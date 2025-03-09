@@ -17,6 +17,7 @@ Email: kaiwenhu [at] stu (dot) pku (dot) edu (dot) cn
 
 
 ## News
+- 2025.03: I have accepted the PhD offer from UC Berkeley EECS. Many thanks!
 - 2025.01: Our paper on contrastive learning theory is accepted at ICLR 2025!
 - 2024.09: Our paper on equivariant self-supervised learning theory is accepted at NeurIPS 2024!
 
