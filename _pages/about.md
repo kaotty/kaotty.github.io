@@ -6,14 +6,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year CS student at Peking University, working with Prof. Yisen Wang, Prof. Lin Yang, and Prof. Amy Zhang. My research goal is to design more powerful and efficient algorithms in reinforcement learning and to provide theoretical understanding for existing representation learning paradigms. My latest CV is [here](http://kaotty.github.io/files/CV.pdf).
+I'm a fourth-year CS student at Peking University, working with Prof. Yisen Wang, Prof. Lin Yang, and Prof. Amy Zhang. My research goal is to design more powerful and efficient algorithms in reinforcement learning and to provide theoretical understanding for existing representation learning paradigms.
 
 Email: kaiwenhu [at] stu (dot) pku (dot) edu (dot) cn
 
-## Research Interests
-- Representation Learning: Revisiting the existing deep learning (e.g., self-supervised learning) paradigms and uncovering their underlying mechanisms theoretically.
+// ## Research Interests
+// - Representation Learning: Revisiting the existing deep learning (e.g., self-supervised learning) paradigms and uncovering their underlying mechanisms theoretically.
 
-- Reinforcement Learning: Improving the sample efficiency of multiple settings with guarantees of robustness.
+// - Reinforcement Learning: Improving the sample efficiency of multiple settings with guarantees of robustness.
 
 
 ## News
