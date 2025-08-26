@@ -6,9 +6,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year CS student at Peking University, working with Prof. Yisen Wang, Prof. Lin Yang, and Prof. Amy Zhang. I will be starting my PhD at UC Berkeley in August. Please feel free to contact me if you are interested in collaboration!
+I'm a first-year PhD student at UC Berkeley EECS, supervised by Prof. Somayeh Sojoudi. I graduated from Peking University previously, working with Prof. Yisen Wang and Prof. Lin Yang. My current research interests are self-supervised learning and reinforcement learning. Please feel free to contact me if you are interested in collaboration!
 
-Email: kaiwenhu [at] stu (dot) pku (dot) edu (dot) cn
+Email: kaiwen_hu [at] berkeley (dot) edu
 
 
 ## News
