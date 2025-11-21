@@ -24,6 +24,10 @@ Email: kaiwen_hu [at] berkeley (dot) edu
 - 2024.09: Our paper on equivariant self-supervised learning theory is accepted at NeurIPS 2024!
 
 ## Publications
+__Value Gradient Flow: Behavior-Regularized RL Without Regularization__  
+Haoran Xu*, __Kaiwen Hu*__, Somayeh Sojoudi, Amy Zhang
+Under review.
+
 __Projection Head is Secretly an Information Bottleneck__  
 Zhuo Ouyang*, __Kaiwen Hu*__, Qi Zhang, Yifei Wang, Yisen Wang  
 In ICLR 2025.  
