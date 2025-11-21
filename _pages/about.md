@@ -25,7 +25,7 @@ Email: kaiwen_hu [at] berkeley (dot) edu
 
 ## Publications
 __Value Gradient Flow: Behavior-Regularized RL Without Regularization__  
-Haoran Xu*, __Kaiwen Hu*__, Somayeh Sojoudi, Amy Zhang
+Haoran Xu*, __Kaiwen Hu*__, Somayeh Sojoudi, Amy Zhang  
 Under review.
 
 __Projection Head is Secretly an Information Bottleneck__  
