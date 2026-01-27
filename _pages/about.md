@@ -18,15 +18,16 @@ Email: kaiwen_hu [at] berkeley (dot) edu
 - Reinforcement Learning: Developing scalable RL algorithms and applying them to applications like LLMs.
 
 ## News
+- 2026.01: Our paper on value gradient flow is accepted by ICLR 2026!
 - 2025.08: I am excited to start my PhD at UC Berkeley.
 - 2025.03: I have accepted the PhD offer from UC Berkeley EECS. Many thanks!
-- 2025.01: Our paper on contrastive learning theory is accepted at ICLR 2025!
-- 2024.09: Our paper on equivariant self-supervised learning theory is accepted at NeurIPS 2024!
+- 2025.01: Our paper on contrastive learning theory is accepted by ICLR 2025!
+- 2024.09: Our paper on equivariant self-supervised learning theory is accepted by NeurIPS 2024!
 
 ## Publications
 __Value Gradient Flow: Behavior-Regularized RL Without Regularization__  
 Haoran Xu*, __Kaiwen Hu*__, Somayeh Sojoudi, Amy Zhang  
-Under review.
+In ICLR 2026.
 
 __Projection Head is Secretly an Information Bottleneck__  
 Zhuo Ouyang*, __Kaiwen Hu*__, Qi Zhang, Yifei Wang, Yisen Wang  
