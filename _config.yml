@@ -24,11 +24,11 @@ author:
   avatar           : "photo.jpg"
   name             : "Kaiwen Hu"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate student at Peking University"
-  location         : "Beijing, China"
-  employer         : "Peking University"
+  bio              : "PhD student at UC Berkeley"
+  location         : "California, United States"
+  employer         : "UC Berkeley"
   uri              : "https://kaotty.github.io" # Used for author profile link
-  email            : "kaiwenhu@stu.pku.edu.cn"
+  email            : "kaiwen_hu@berkeley.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
