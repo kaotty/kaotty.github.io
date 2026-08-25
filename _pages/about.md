@@ -26,7 +26,7 @@ Email: kaiwen_hu [at] berkeley (dot) edu
 ## Publications
 __Reinforcement Learning via Value Gradient Flow__  
 Haoran Xu*, __Kaiwen Hu*__, Somayeh Sojoudi, Amy Zhang  
-In ICLR 2026.
+In ICLR 2026.  
 [PDF](https://arxiv.org/abs/2604.14265) | [Code](https://github.com/ryanxhr/vgf)
 
 __Projection Head is Secretly an Information Bottleneck__  
