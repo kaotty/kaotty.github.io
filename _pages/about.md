@@ -6,16 +6,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year PhD student at UC Berkeley EECS, advised by Prof. Somayeh Sojoudi. I got my BS in computer science from Peking University previously, working with Prof. Yisen Wang and Dr. Yifei Wang on self-supervised learning and Prof. Lin Yang (UCLA) on reinforcement learning. My current research interests are self-supervised learning, reinforcement learning and LLM reasoning. Please feel free to contact me if you are interested in collaboration!
+I'm a second-year PhD student at UC Berkeley EECS, advised by Prof. Somayeh Sojoudi. I got my BS in computer science from Peking University previously, working with Prof. Yisen Wang and Dr. Yifei Wang on self-supervised learning and Prof. Lin Yang (UCLA) on reinforcement learning. My current research interest is reinforcement learning, including offline RL algorithms and RL for post-training LLMs and VLMs. Please feel free to contact me if you are interested in collaboration!
 
 My CV is [here](http://kaotty.github.io/files/CV.pdf).
 
 Email: kaiwen_hu [at] berkeley (dot) edu
 
 ## Research Interests
-- Reasoning in LLMs: Understanding the causes of reasoning failures in large language models and solving them via reliable and robust methods.
-- Self-Supervised Learning: Revisiting the existing self-supervised learning paradigms and uncovering their underlying mechanisms theoretically.
-- Reinforcement Learning: Developing scalable RL algorithms and applying them to applications like LLMs.
+- Offline RL: Developing scalable offline RL algorithms that can solve long-horizon tasks.
+- RL for post-training: Understanding how SFT, especially in tool-integrated reasoning, shapes the initialization and learning dynamics of the subsequent RL stage.
 
 ## News
 - 2026.01: Our paper on value gradient flow is accepted by ICLR 2026!
@@ -25,9 +24,10 @@ Email: kaiwen_hu [at] berkeley (dot) edu
 - 2024.09: Our paper on equivariant self-supervised learning theory is accepted by NeurIPS 2024!
 
 ## Publications
-__Value Gradient Flow: Behavior-Regularized RL Without Regularization__  
+__Reinforcement Learning via Value Gradient Flow__  
 Haoran Xu*, __Kaiwen Hu*__, Somayeh Sojoudi, Amy Zhang  
 In ICLR 2026.
+[PDF](https://arxiv.org/abs/2604.14265) | [Code](https://github.com/ryanxhr/vgf)
 
 __Projection Head is Secretly an Information Bottleneck__  
 Zhuo Ouyang*, __Kaiwen Hu*__, Qi Zhang, Yifei Wang, Yisen Wang  
