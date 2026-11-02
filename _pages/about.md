@@ -16,6 +16,9 @@ Email: kaiwen_hu [at] berkeley (dot) edu
 - Offline RL: Developing scalable offline RL algorithms that can solve long-horizon tasks.
 - RL for post-training: Understanding how SFT, especially in tool-integrated reasoning, shapes the initialization and learning dynamics of the subsequent RL stage.
 
+## Blog
+- [Think Twice Before Calling Tools](/blog/think-before-tools/) — How pre-call reasoning in SFT shapes tool-use retention under RL. *(中文)*
+
 ## News
 - 2026.01: Our paper on value gradient flow is accepted by ICLR 2026!
 - 2025.08: I am excited to start my PhD at UC Berkeley.
