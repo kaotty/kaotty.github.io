@@ -6,9 +6,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year PhD student at UC Berkeley EECS, advised by Prof. Somayeh Sojoudi. I got my BS in computer science from Peking University previously, working with Prof. Yisen Wang and Dr. Yifei Wang on self-supervised learning and Prof. Lin Yang (UCLA) on reinforcement learning. My current research interest is reinforcement learning, including offline RL algorithms and RL for post-training LLMs and VLMs. Please feel free to contact me if you are interested in collaboration!
+I'm a second-year PhD student at UC Berkeley EECS, advised by Prof. Somayeh Sojoudi. I got my BS in computer science from Peking University previously, working with Prof. Yisen Wang and Dr. Yifei Wang on self-supervised learning and Prof. Lin Yang (UCLA) on reinforcement learning. My current research interest is reinforcement learning, including offline RL algorithms and RL for post-training LLMs and VLMs.
 
-My CV is [here](http://kaotty.github.io/files/CV.pdf).
+My CV is [here](https://github.com/kaotty/kaotty.github.io/blob/master/files/CV%20Oct%202026.pdf).
 
 Email: kaiwen_hu [at] berkeley (dot) edu
 
